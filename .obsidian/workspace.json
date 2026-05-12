@@ -165,8 +165,14 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "2d65db8a1bcdd59d",
+  "active": "82b3176d1429d109",
   "lastOpenFiles": [
+    "20_Resources/2026-05-13_モダナイ準備_整理_v01.md",
+    "20_Resources/2026-05-13_モダナイ準備_整理.md",
+    "2026-05-13.md",
+    "10_Projects/2026-05-13_モダナイ準備_実行計画_v01.md",
+    "01_Daily/2026-05-13.md",
+    "00_Inbox/2026-05-13_モダナイ準備.md",
     "00_Inbox/2026-05-12.md",
     "00_Inbox/2026-05-13_モダナイイベント準備.md",
     "20_Resources/2026-05-13_モダナイイベント準備_整理.md",
@@ -190,12 +196,6 @@
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "99_System/プロンプト",
