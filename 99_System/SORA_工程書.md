@@ -34,7 +34,7 @@ updated: 2026-05-12
 | `#実行` | `99_System/プロンプト/prompt_実行_作成.md` | `10_Projects` に成果物を配置 | `30_Archive` に移動 |
 | `#作成` | `99_System/プロンプト/prompt_実行_作成.md` | `10_Projects` に成果物を配置 | `30_Archive` に移動 |
 | `#整理` | `99_System/プロンプト/prompt_整理.md` | `20_Resources` に新ノート作成 | `20_Resources` に移動 |
-| `#メール` | `99_System/プロンプト/prompt_メール.md` | 元ノートに追記 | `30_Archive` に移動 |
+| `#メール` | `99_System/プロンプト/prompt_メール.md` | `10_Projects` に新ノート作成 | `30_Archive` に移動 |
 
 ---
 
