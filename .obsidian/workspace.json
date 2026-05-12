@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "99_System/運用ルール.md",
-                "bFile": "99_System/運用ルール.md",
+                "aFile": "00_Inbox/シフト表作成.md",
+                "bFile": "00_Inbox/シフト表作成.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 運用ルール  (Working Tree)"
+              "title": "Diff: シフト表作成  (Working Tree)"
             }
           }
         ]
@@ -208,15 +208,17 @@
       "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "ddd68a5e72b92d79",
+  "active": "82b3176d1429d109",
   "lastOpenFiles": [
+    "00_Inbox/シフト表作成.md",
     "99_System/運用ルール.md",
-    "README.md",
+    "99_System/使い方ガイド.md",
     "99_System/テンプレート_プロジェクト.md",
     "99_System/テンプレート_デイリーノート.md",
     "99_System/SORA_依頼テンプレート.md",
     "99_System/SORA_ダッシュボード.md",
-    "00_Inbox/シフト表作成.md",
+    "10_Projects/シフト表.xlsx",
+    "README.md",
     "10_Projects/シフト表作成.md",
     "00_Inbox/2026-05-12.md",
     "00_Inbox/使い方検討.md",
