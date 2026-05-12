@@ -193,8 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2bd117104f31632",
+  "active": "9e32ccec23a7dd0f",
   "lastOpenFiles": [
+    "20_Resources/2026-05-13_モダナイイベント準備_整理.md",
+    "/20_Resources/2026-05-13_モダナイイベント準備_整理.md",
+    "/20_Resources/2026-05-13_モダナイイベント準備.md",
+    "20_Resources/2026-05-13_モダナイイベント準備.md",
+    "/20_Resources",
     "conflict-files-obsidian-git.md",
     "00_Inbox/2026-05-13_モダナイイベント準備.md",
     "README.md",
@@ -225,11 +230,6 @@
     "99_System",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts"
+    "copilot/copilot-custom-prompts/Make longer.md"
   ]
 }
