@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "224817e8c1745afc",
+        "id": "94d68ed0a5d01797",
         "type": "tabs",
         "children": [
           {
-            "id": "ddd68a5e72b92d79",
+            "id": "cabd253f0c2850d9",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "00_Inbox/シフト表作成.md",
-                "bFile": "00_Inbox/シフト表作成.md",
-                "aRef": ""
+                "file": "99_System/運用ルール.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: シフト表作成  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "運用ルール"
             }
           }
         ]
@@ -156,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "99_System/運用ルール.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "運用ルールのアウトライン"
             }
           },
           {
@@ -208,15 +209,22 @@
       "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "82b3176d1429d109",
+  "active": "cabd253f0c2850d9",
   "lastOpenFiles": [
-    "00_Inbox/シフト表作成.md",
-    "99_System/運用ルール.md",
     "99_System/使い方ガイド.md",
-    "99_System/テンプレート_プロジェクト.md",
-    "99_System/テンプレート_デイリーノート.md",
+    "99_System/SORA_工程書.md",
     "99_System/SORA_依頼テンプレート.md",
     "99_System/SORA_ダッシュボード.md",
+    "99_System/テンプレート_デイリーノート.md",
+    "99_System/テンプレート_プロジェクト.md",
+    "99_System/プロンプト/prompt_整理.md",
+    "99_System/プロンプト/prompt_調査.md",
+    "99_System/プロンプト/prompt_実行_作成.md",
+    "99_System/プロンプト/prompt_メール.md",
+    "99_System/プロンプト/prompt_タスク.md",
+    "99_System/プロンプト",
+    "00_Inbox/シフト表作成.md",
+    "99_System/運用ルール.md",
     "10_Projects/シフト表.xlsx",
     "README.md",
     "10_Projects/シフト表作成.md",
