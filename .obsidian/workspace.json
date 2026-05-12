@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_System/運用ルール.md",
+                "file": "copilot/copilot-custom-prompts/Simplify.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "運用ルール"
+              "title": "Simplify"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#project",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "検索"
             }
           },
           {
@@ -89,36 +89,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d11052c975fd345e",
+            "id": "82b3176d1429d109",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Welcome.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
-            }
-          },
-          {
-            "id": "4dea204de63f62a6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Welcome.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -151,46 +128,21 @@
             }
           },
           {
-            "id": "45433bf8d40ea0bb",
+            "id": "1c7b68272ac1de93",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "99_System/運用ルール.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "運用ルールのアウトライン"
-            }
-          },
-          {
-            "id": "d62b9ac078370d2c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
+              "type": "copilot-chat-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "82b3176d1429d109",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,40 +158,51 @@
       "bases:新規ベースを作成": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:カンバンボードを新規作成": false
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "copilot:Open Copilot Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "cabd253f0c2850d9",
+  "active": "1c7b68272ac1de93",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/9.11_and_9.8,_which_is_bigger@20260512_221421.md",
+    "copilot/copilot-conversations",
+    "99_System/テンプレート_デイリーノート.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "99_System/運用ルール.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "99_System/SORA_工程書.md",
     "99_System/SORA_依頼テンプレート.md",
     "99_System/SORA_ダッシュボード.md",
-    "99_System/運用ルール.md",
     "99_System/使い方ガイド.md",
-    "99_System/テンプレート_デイリーノート.md",
     "99_System/テンプレート_プロジェクト.md",
     "99_System/プロンプト/prompt_整理.md",
     "99_System/プロンプト/prompt_調査.md",
     "99_System/プロンプト/prompt_実行_作成.md",
-    "99_System/プロンプト/prompt_メール.md",
-    "99_System/プロンプト/prompt_タスク.md",
     "99_System/プロンプト",
-    "00_Inbox/シフト表作成.md",
     "10_Projects/シフト表.xlsx",
-    "README.md",
-    "10_Projects/シフト表作成.md",
-    "00_Inbox/2026-05-12.md",
-    "00_Inbox/使い方検討.md",
-    "conflict-files-obsidian-git.md",
-    "無題のカンバン.md",
     "無題のファイル.base",
-    "99_System/dataview LIST FROM #SORA_調査 SORT file.mtime DESC.md",
     "99_System",
     "30_Archive",
     "20_Resources",
-    "10_Projects",
-    "00_Inbox",
-    "Welcome.md",
-    "Untitled"
+    "10_Projects"
   ]
 }
