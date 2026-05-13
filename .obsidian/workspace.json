@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9963eeeb968fb3c6",
+        "id": "d18d931b458249ab",
         "type": "tabs",
         "children": [
           {
-            "id": "2d65db8a1bcdd59d",
+            "id": "8067114cc8e9dc4a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "99_System/SORA_ダッシュボード.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "SORA_ダッシュボード"
             }
           }
         ]
@@ -165,10 +165,18 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "82b3176d1429d109",
+  "active": "8067114cc8e9dc4a",
   "lastOpenFiles": [
-    "99_System/運用ルール.md",
+    "99_System/SORA_ダッシュボード.md",
+    "99_System/プロンプト/prompt_週次レビュー.md",
+    "99_System/プロンプト/prompt_調査.md",
+    "99_System/プロンプト/prompt_緊急.md",
+    "99_System/プロンプト/prompt_実行_作成.md",
+    "99_System/プロンプト/prompt_メール.md",
+    "99_System/プロンプト/prompt_タスク.md",
+    "99_System/プロンプト/prompt_ジェネレーター.md",
     "99_System/使い方ガイド.md",
+    "99_System/運用ルール.md",
     "README.md",
     "00_Inbox/モダナイタスク確認.md",
     "10_Projects/2026-05-13_モダナイタスク整理_v01.md",
@@ -185,14 +193,6 @@
     "10_Projects/2026-05-13_モダナイ準備_実行計画_v01.md",
     "00_Inbox/2026-05-12.md",
     "00_Inbox/2026-05-13_モダナイイベント準備.md",
-    "20_Resources/2026-05-13_モダナイイベント準備_整理.md",
-    "20_Resources/2026-05-13_モダナイイベント準備.md",
-    "99_System/SORA_依頼テンプレート.md",
-    "99_System/SORA_工程書.md",
-    "01_Daily/2026-05-12.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "99_System/テンプレート_週次レビュー.md",
-    "99_System/テンプレート_Permanent.md",
     "05_Permanent",
     "01_Daily",
     "copilot/copilot-conversations",
