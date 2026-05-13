@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/2026-05-13_モダナイ準備.md",
+                "file": "00_Inbox/モダナイタスク確認.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-13_モダナイ準備"
+              "title": "モダナイタスク確認"
             }
           }
         ]
@@ -167,8 +167,9 @@
   },
   "active": "2d65db8a1bcdd59d",
   "lastOpenFiles": [
-    "無題のファイル.md",
     "00_Inbox/2026-05-13_モダナイ準備.md",
+    "00_Inbox/モダナイタスク確認.md",
+    "無題のファイル.md",
     "01_Daily/2026-05-13.md",
     "99_System/テンプレート_デイリーノート.md",
     "99_System/テンプレート_プロジェクト.md",
@@ -195,7 +196,6 @@
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "99_System/プロンプト",
