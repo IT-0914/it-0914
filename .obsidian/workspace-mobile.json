@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01_Daily/2026-05-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-05-14"
             }
           }
         ]
@@ -183,8 +183,10 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "9e32ccec23a7dd0f",
+  "active": "d41b5dc5a2acad6a",
   "lastOpenFiles": [
+    "README.md",
+    "01_Daily/2026-05-14.md",
     "99_System/プロンプト/prompt_週次レビュー.md",
     "99_System/プロンプト/prompt_緊急.md",
     "/10_Projects/2026-05-13_モダナイタスク整理_v01.md",
@@ -214,8 +216,6 @@
     "/00_Inbox",
     "01_Daily/2026-05-13.md",
     "99_System/運用ルール.md",
-    "99_System/SORA_工程書.md",
-    "99_System/SORA_ダッシュボード.md",
     "/20_Resources",
     "00_Inbox",
     "05_Permanent",
