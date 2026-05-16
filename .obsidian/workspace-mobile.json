@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Daily/2026-05-14.md",
+                "file": "01_Daily/2026-05-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-14"
+              "title": "2026-05-15"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "d41b5dc5a2acad6a",
   "lastOpenFiles": [
-    "README.md",
     "01_Daily/2026-05-14.md",
+    "/01_Daily/2026-05-15.md",
+    "01_Daily/2026-05-15.md",
+    "/01_Daily",
+    "README.md",
     "99_System/プロンプト/prompt_週次レビュー.md",
     "99_System/プロンプト/prompt_緊急.md",
     "/10_Projects/2026-05-13_モダナイタスク整理_v01.md",
@@ -210,12 +213,9 @@
     "/99_System/テンプレート_デイリーノート.md",
     "10_Projects/2026-05-13_モダナイタスク整理_v01.md",
     "/01_Daily/2026-05-13.md",
-    "/01_Daily",
     "/00_Inbox/モダナイタスク確認.md",
     "/00_Inbox/2026-05-13_モダナイ準備.md",
     "/00_Inbox",
-    "01_Daily/2026-05-13.md",
-    "99_System/運用ルール.md",
     "/20_Resources",
     "00_Inbox",
     "05_Permanent",
