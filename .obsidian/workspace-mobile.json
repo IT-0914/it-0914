@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_System/SORA_ダッシュボード.md",
+                "file": "01_Daily/2026-05-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SORA_ダッシュボード"
+              "title": "2026-05-17"
             }
           }
         ]
@@ -185,18 +185,18 @@
   },
   "active": "d41b5dc5a2acad6a",
   "lastOpenFiles": [
-    "99_System/テンプレート_Permanent.md",
     "99_System/SORA_ダッシュボード.md",
+    "/01_Daily/2026-05-17.md",
+    "/01_Daily",
+    "99_System/テンプレート_Permanent.md",
     "01_Daily/2026-05-16.md",
     "01_Daily/2026-05-17.md",
     "20_Resources/ニュース/2026-05-17_ニュース_朝刊_v01.md",
-    "/01_Daily/2026-05-17.md",
     "/README.md",
     "/99_System/運用ルール.md",
     "/99_System",
     "/20_Resources/ニュース/2026-05-17_ニュース_朝刊_v01.md",
     "/01_Daily/2026-05-16.md",
-    "/01_Daily",
     "/20_Resources/ニュース",
     "20_Resources/ニュース",
     "/20_Resources",
@@ -216,7 +216,6 @@
     "/99_System/プロンプト/prompt_メール.md",
     "/99_System/プロンプト/prompt_タスク.md",
     "/99_System/プロンプト/prompt_ジェネレーター.md",
-    "99_System/プロンプト/prompt_ジェネレーター.md",
     "/99_System/プロンプト",
     "/00_Inbox",
     "00_Inbox",
