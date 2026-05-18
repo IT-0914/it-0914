@@ -153,6 +153,54 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "487694c5c0a7aa9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Daily/2026-05-14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-05-14へのバックリンク"
+            }
+          },
+          {
+            "id": "bb78802f1268fd09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Daily/2026-05-14.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2026-05-14からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "a90a3aad98ca70a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Daily/2026-05-14.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-05-14のアウトライン"
+            }
           }
         ]
       }
@@ -162,9 +210,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Markdownインポーターを開く": false,
-      "workspaces:ワークスペースレイアウトを管理": false,
-      "publish:パブリッシュによる変更の公開": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -172,9 +217,7 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:新規ベースを作成": false,
-      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:カンバンボードを新規作成": false,
       "copilot:Open Copilot Chat": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Toggle Footer Connections": false,
