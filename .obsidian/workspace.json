@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "SORA_ダッシュボード"
             }
-          },
-          {
-            "id": "c13e2d3d5ced3420",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".smart-env/multi/02_Memo_無題2_20260519_191538_txt.ajson",
-                "bFile": ".smart-env/multi/02_Memo_無題2_20260519_191538_txt.ajson",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 02_Memo_無題2_20260519_191538_txt.ajson  (Working Tree)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "99_System/SORA_ダッシュボード.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "SORA_ダッシュボードへのバックリンク"
             }
           },
           {
@@ -178,11 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "99_System/SORA_ダッシュボード.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "SORA_ダッシュボードからのアウトゴーイングリンク"
             }
           },
           {
@@ -191,12 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "99_System/SORA_ダッシュボード.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "SORA_ダッシュボードのアウトライン"
             }
           }
         ]
@@ -222,10 +210,11 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "c13e2d3d5ced3420",
+  "active": "8067114cc8e9dc4a",
   "lastOpenFiles": [
-    "02_Memo/2026-05-19.md",
+    "00_Inbox/無題のファイル.md",
     "99_System/SORA_ダッシュボード.md",
+    "02_Memo/2026-05-19.md",
     "02_Memo/無題2_20260519_191538",
     "02_Memo/無題2_20260519_191538.txt",
     "01_Daily/2026-05-18.md",

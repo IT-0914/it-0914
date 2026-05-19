@@ -2,5 +2,7 @@
   "livePreview": false,
   "tabSize": 6,
   "uriCallbacks": true,
-  "newFileLocation": "folder"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "02_Memo",
+  "attachmentFolderPath": "00_Inbox"
 }
