@@ -225,8 +225,9 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "6a6eca857ded633e",
+  "active": "82b3176d1429d109",
   "lastOpenFiles": [
+    "20_Resources/ニュース/2026-05-19_ニュース_朝刊_v01.md",
     "01_Daily/2026-05-18.md",
     "01_Daily/2026-05-17.md",
     "01_Daily/2026-05-14.md",
@@ -253,7 +254,6 @@
     "README.md",
     "99_System/プロンプト/prompt_整理.md",
     "20_Resources/2026-05-13_モダナイ準備_整理_v01.md",
-    "00_Inbox/2026-05-13_モダナイ準備.md",
     "05_Permanent",
     "01_Daily",
     "copilot/copilot-conversations",
