@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "97ad3490d233118a",
+            "id": "1579bfd289bf5c2b",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "02_Memo/2026-05-19.md",
-                "bFile": "02_Memo/2026-05-19.md",
+                "aFile": "02_Memo/無題2_20260519_191538",
+                "bFile": "02_Memo/無題2_20260519_191538",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 2026-05-19  (Working Tree)"
+              "title": "Diff: 無題2_20260519_191538  (Working Tree)"
             }
           }
         ],
@@ -222,15 +222,17 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "97ad3490d233118a",
+  "active": "1579bfd289bf5c2b",
   "lastOpenFiles": [
     "02_Memo/2026-05-19.md",
+    "99_System/SORA_ダッシュボード.md",
+    "02_Memo/無題2_20260519_191538",
+    "02_Memo/無題2_20260519_191538.txt",
     "01_Daily/2026-05-18.md",
     "02_Memo/2026-05-19.txt",
     "02_Memo",
     "New folder",
     "01_Daily/2026-05-19.md",
-    "99_System/SORA_ダッシュボード.md",
     "01_Daily/2026-05-17.md",
     "20_Resources/ニュース/2026-05-19_ニュース_朝刊_v01.md",
     "01_Daily/2026-05-14.md",
@@ -253,12 +255,9 @@
     "99_System/プロンプト/prompt_ジェネレーター.md",
     "99_System/使い方ガイド.md",
     "99_System/運用ルール.md",
-    "README.md",
     "05_Permanent",
     "01_Daily",
     "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "99_System/プロンプト"
+    "copilot/copilot-custom-prompts"
   ]
 }
