@@ -1,1 +1,6 @@
-{}
+{
+  "livePreview": false,
+  "tabSize": 6,
+  "uriCallbacks": true,
+  "newFileLocation": "folder"
+}

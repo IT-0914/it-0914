@@ -15,8 +15,8 @@
               "type": "markdown",
               "state": {
                 "file": "99_System/SORA_ダッシュボード.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "1579bfd289bf5c2b",
+            "id": "c13e2d3d5ced3420",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "02_Memo/無題2_20260519_191538",
-                "bFile": "02_Memo/無題2_20260519_191538",
+                "aFile": ".smart-env/multi/02_Memo_無題2_20260519_191538_txt.ajson",
+                "bFile": ".smart-env/multi/02_Memo_無題2_20260519_191538_txt.ajson",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 無題2_20260519_191538  (Working Tree)"
+              "title": "Diff: 02_Memo_無題2_20260519_191538_txt.ajson  (Working Tree)"
             }
           }
         ],
@@ -222,7 +222,7 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "1579bfd289bf5c2b",
+  "active": "c13e2d3d5ced3420",
   "lastOpenFiles": [
     "02_Memo/2026-05-19.md",
     "99_System/SORA_ダッシュボード.md",
