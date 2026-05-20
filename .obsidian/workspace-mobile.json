@@ -183,13 +183,15 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "d41b5dc5a2acad6a",
+  "active": "54bdd2c2bd30b114",
   "lastOpenFiles": [
+    "00_Dashboard.md",
+    "/01_Daily/2026-05-20.md",
+    "/01_Daily",
+    "/00_Dashboard.md",
     "01_Daily/2026-05-19.md",
     "01_Daily/2026-05-20.md",
-    "/01_Daily/2026-05-20.md",
     "/01_Daily/2026-05-19.md",
-    "/01_Daily",
     "01_Daily/2026-05-17.md",
     "02_Memo/無題2_20260519_191538",
     "02_Memo/2026-05-19.txt",
@@ -218,8 +220,6 @@
     "/20_Resources/ニュース/2026-05-17_ニュース_朝刊_v01.md",
     "/01_Daily/2026-05-16.md",
     "01_Daily/2026-05-15.md",
-    "/01_Daily/2026-05-15.md",
-    "01_Daily/2026-05-14.md",
-    "README.md"
+    "/01_Daily/2026-05-15.md"
   ]
 }
