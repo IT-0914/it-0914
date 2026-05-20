@@ -37,7 +37,8 @@
               "title": "2026-05-20"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99_System/SORA_ダッシュボード.md",
+                "file": "01_Daily/2026-05-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "SORA_ダッシュボードへのバックリンク"
+              "title": "2026-05-20へのバックリンク"
             }
           },
           {
@@ -178,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99_System/SORA_ダッシュボード.md",
+                "file": "01_Daily/2026-05-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "SORA_ダッシュボードからのアウトゴーイングリンク"
+              "title": "2026-05-20からのアウトゴーイングリンク"
             }
           },
           {
@@ -192,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99_System/SORA_ダッシュボード.md",
+                "file": "01_Daily/2026-05-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SORA_ダッシュボードのアウトライン"
+              "title": "2026-05-20のアウトライン"
             }
           }
         ]
@@ -224,11 +225,11 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "8067114cc8e9dc4a",
+  "active": "3a004071e7819c1c",
   "lastOpenFiles": [
+    "99_System/SORA_ダッシュボード.md",
     "00_Dashboard.md",
     "01_Daily/2026-05-20.md",
-    "99_System/SORA_ダッシュボード.md",
     "00_Inbox/無題のファイル.md",
     "02_Memo/2026-05-19.md",
     "02_Memo/無題2_20260519_191538",
