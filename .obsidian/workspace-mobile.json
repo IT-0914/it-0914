@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Daily/2026-05-19.md",
+                "file": "01_Daily/2026-05-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-19"
+              "title": "2026-05-20"
             }
           }
         ]
@@ -185,6 +185,11 @@
   },
   "active": "d41b5dc5a2acad6a",
   "lastOpenFiles": [
+    "01_Daily/2026-05-19.md",
+    "01_Daily/2026-05-20.md",
+    "/01_Daily/2026-05-20.md",
+    "/01_Daily/2026-05-19.md",
+    "/01_Daily",
     "01_Daily/2026-05-17.md",
     "02_Memo/無題2_20260519_191538",
     "02_Memo/2026-05-19.txt",
@@ -201,9 +206,6 @@
     "/99_System/運用ルール.md",
     "/99_System",
     "/02_Memo/無題2_20260519_191538.txt",
-    "/02_Memo/無題2_20260519_191538",
-    "/01_Daily/2026-05-19.md",
-    "01_Daily/2026-05-19.md",
     "/00_Inbox/無題のファイル.md",
     "00_Inbox/無題のファイル.md",
     "01_Daily/2026-05-18.md",
@@ -218,7 +220,6 @@
     "01_Daily/2026-05-15.md",
     "/01_Daily/2026-05-15.md",
     "01_Daily/2026-05-14.md",
-    "README.md",
-    "99_System/プロンプト/prompt_週次レビュー.md"
+    "README.md"
   ]
 }
