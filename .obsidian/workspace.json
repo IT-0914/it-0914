@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "3a004071e7819c1c",
+            "id": "5e3b06afe94d4063",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Daily/2026-05-20.md",
-                "mode": "source",
+                "file": "01_Daily/2026-05-21.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-20"
+              "title": "2026-05-21"
             }
           }
         ],
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Daily/2026-05-20.md",
+                "file": "01_Daily/2026-05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-05-20へのバックリンク"
+              "title": "2026-05-21へのバックリンク"
             }
           },
           {
@@ -179,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Daily/2026-05-20.md",
+                "file": "01_Daily/2026-05-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-05-20からのアウトゴーイングリンク"
+              "title": "2026-05-21からのアウトゴーイングリンク"
             }
           },
           {
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Daily/2026-05-20.md",
+                "file": "01_Daily/2026-05-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-20のアウトライン"
+              "title": "2026-05-21のアウトライン"
             }
           }
         ]
@@ -225,11 +225,13 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "3a004071e7819c1c",
+  "active": "5e3b06afe94d4063",
   "lastOpenFiles": [
     "99_System/SORA_ダッシュボード.md",
-    "00_Dashboard.md",
+    "20_Resources/ニュース/2026-05-21_ニュース_朝刊_v01.md",
+    "01_Daily/2026-05-21.md",
     "01_Daily/2026-05-20.md",
+    "00_Dashboard.md",
     "00_Inbox/無題のファイル.md",
     "02_Memo/2026-05-19.md",
     "02_Memo/無題2_20260519_191538",
@@ -257,8 +259,6 @@
     "99_System/プロンプト/prompt_緊急.md",
     "99_System/プロンプト/prompt_実行_作成.md",
     "99_System/プロンプト/prompt_メール.md",
-    "99_System/プロンプト/prompt_タスク.md",
-    "99_System/プロンプト/prompt_ジェネレーター.md",
     "05_Permanent",
     "01_Daily",
     "copilot/copilot-conversations",
