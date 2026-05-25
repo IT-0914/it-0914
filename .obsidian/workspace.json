@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Daily/2026-05-21.md",
+                "file": "01_Daily/2026-05-22.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-21"
+              "title": "2026-05-22"
             }
           }
         ],
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Daily/2026-05-21.md",
+                "file": "01_Daily/2026-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-05-21へのバックリンク"
+              "title": "2026-05-22へのバックリンク"
             }
           },
           {
@@ -179,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Daily/2026-05-21.md",
+                "file": "01_Daily/2026-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-05-21からのアウトゴーイングリンク"
+              "title": "2026-05-22からのアウトゴーイングリンク"
             }
           },
           {
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Daily/2026-05-21.md",
+                "file": "01_Daily/2026-05-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-21のアウトライン"
+              "title": "2026-05-22のアウトライン"
             }
           }
         ]
@@ -227,9 +227,10 @@
   },
   "active": "5e3b06afe94d4063",
   "lastOpenFiles": [
+    "01_Daily/2026-05-21.md",
+    "01_Daily/2026-05-22.md",
     "99_System/SORA_ダッシュボード.md",
     "20_Resources/ニュース/2026-05-21_ニュース_朝刊_v01.md",
-    "01_Daily/2026-05-21.md",
     "01_Daily/2026-05-20.md",
     "00_Dashboard.md",
     "00_Inbox/無題のファイル.md",
@@ -258,7 +259,6 @@
     "99_System/プロンプト/prompt_調査.md",
     "99_System/プロンプト/prompt_緊急.md",
     "99_System/プロンプト/prompt_実行_作成.md",
-    "99_System/プロンプト/prompt_メール.md",
     "05_Permanent",
     "01_Daily",
     "copilot/copilot-conversations",
