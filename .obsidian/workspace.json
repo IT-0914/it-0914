@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Memo/2026-05-25_モダナイ.md",
+                "file": "02_Memo/2026-05-25_基礎研修.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-25_モダナイ"
+              "title": "2026-05-25_基礎研修"
             }
           }
         ],
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8b03f22c1f1d0532",
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Memo/2026-05-25_モダナイ.md",
+                "file": "02_Memo/2026-05-25_基礎研修.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-05-25_モダナイへのバックリンク"
+              "title": "2026-05-25_基礎研修へのバックリンク"
             }
           },
           {
@@ -180,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Memo/2026-05-25_モダナイ.md",
+                "file": "02_Memo/2026-05-25_基礎研修.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-05-25_モダナイからのアウトゴーイングリンク"
+              "title": "2026-05-25_基礎研修からのアウトゴーイングリンク"
             }
           },
           {
@@ -194,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Memo/2026-05-25_モダナイ.md",
+                "file": "02_Memo/2026-05-25_基礎研修.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-25_モダナイのアウトライン"
+              "title": "2026-05-25_基礎研修のアウトライン"
             }
           }
         ]
@@ -229,8 +228,9 @@
   },
   "active": "5e3b06afe94d4063",
   "lastOpenFiles": [
-    "02_Memo/2026-05-19.md",
     "02_Memo/2026-05-25_モダナイ.md",
+    "02_Memo/2026-05-25_基礎研修.md",
+    "02_Memo/2026-05-19.md",
     "01_Daily/2026-05-25.md",
     "01_Daily/2026-05-22.md",
     "20_Resources/ニュース/2026-05-25_ニュース_朝刊_v01.md",
@@ -260,7 +260,6 @@
     "00_Inbox/モダナイタスク確認.md",
     "99_System/テンプレート_プロジェクト.md",
     "99_System/テンプレート_週次レビュー.md",
-    "99_System/SORA_工程書.md",
     "05_Permanent",
     "01_Daily",
     "copilot/copilot-conversations",
