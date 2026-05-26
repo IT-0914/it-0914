@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Daily/2026-05-25.md",
+                "file": "01_Daily/2026-05-26.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-25"
+              "title": "2026-05-26"
             }
           }
         ],
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Daily/2026-05-25.md",
+                "file": "01_Daily/2026-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-05-25へのバックリンク"
+              "title": "2026-05-26へのバックリンク"
             }
           },
           {
@@ -179,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Daily/2026-05-25.md",
+                "file": "01_Daily/2026-05-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-05-25からのアウトゴーイングリンク"
+              "title": "2026-05-26からのアウトゴーイングリンク"
             }
           },
           {
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Daily/2026-05-25.md",
+                "file": "01_Daily/2026-05-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-25のアウトライン"
+              "title": "2026-05-26のアウトライン"
             }
           }
         ]
@@ -225,12 +225,13 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "82b3176d1429d109",
+  "active": "5e3b06afe94d4063",
   "lastOpenFiles": [
+    "01_Daily/2026-05-25.md",
+    "01_Daily/2026-05-26.md",
     "02_Memo/2026-05-25_基礎研修.md",
     "02_Memo/2026-05-25_モダナイ.md",
     "02_Memo/2026-05-19.md",
-    "01_Daily/2026-05-25.md",
     "01_Daily/2026-05-22.md",
     "20_Resources/ニュース/2026-05-25_ニュース_朝刊_v01.md",
     "20_Resources/ニュース/2026-05-24_ニュース_朝刊_v01.md",
@@ -258,7 +259,6 @@
     "10_Projects/2026-05-13_モダナイタスク整理_v01.md",
     "00_Inbox/モダナイタスク確認.md",
     "99_System/テンプレート_プロジェクト.md",
-    "99_System/テンプレート_週次レビュー.md",
     "05_Permanent",
     "01_Daily",
     "copilot/copilot-conversations",
