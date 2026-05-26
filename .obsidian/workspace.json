@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Memo/2026-05-25_基礎研修.md",
+                "file": "01_Daily/2026-05-25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-25_基礎研修"
+              "title": "2026-05-25"
             }
           }
         ],
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Memo/2026-05-25_基礎研修.md",
+                "file": "01_Daily/2026-05-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-05-25_基礎研修へのバックリンク"
+              "title": "2026-05-25へのバックリンク"
             }
           },
           {
@@ -179,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Memo/2026-05-25_基礎研修.md",
+                "file": "01_Daily/2026-05-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-05-25_基礎研修からのアウトゴーイングリンク"
+              "title": "2026-05-25からのアウトゴーイングリンク"
             }
           },
           {
@@ -193,21 +193,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Memo/2026-05-25_基礎研修.md",
+                "file": "01_Daily/2026-05-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-25_基礎研修のアウトライン"
+              "title": "2026-05-25のアウトライン"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,10 +225,10 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "5e3b06afe94d4063",
+  "active": "82b3176d1429d109",
   "lastOpenFiles": [
-    "02_Memo/2026-05-25_モダナイ.md",
     "02_Memo/2026-05-25_基礎研修.md",
+    "02_Memo/2026-05-25_モダナイ.md",
     "02_Memo/2026-05-19.md",
     "01_Daily/2026-05-25.md",
     "01_Daily/2026-05-22.md",
