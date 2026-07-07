@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d18d931b458249ab",
+        "id": "8e5133f819964cb1",
         "type": "tabs",
         "children": [
           {
-            "id": "8067114cc8e9dc4a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99_System/SORA_ダッシュボード.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "SORA_ダッシュボード"
-            }
-          },
-          {
-            "id": "5e3b06afe94d4063",
+            "id": "617e5d00abe86948",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Daily/2026-05-27.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-05-27"
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,8 +129,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -218,22 +197,21 @@
       "command-palette:コマンドパレットを開く": false,
       "bases:新規ベースを作成": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Toggle Footer Connections": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "2c94b269de52a377",
+  "active": "617e5d00abe86948",
   "lastOpenFiles": [
+    "01_Daily/2026-05-27.md",
     "20_Resources/ニュース/2026-06-10_ニュース_朝刊_v01.md",
     "20_Resources/ニュース/2026-06-06_ニュース_朝刊_v01.md",
     "20_Resources/ニュース/2026-06-03_ニュース_朝刊_v01.md",
     "20_Resources/ニュース/2026-05-31_ニュース_朝刊_v01.md",
     "20_Resources/ニュース/2026-05-28_ニュース_朝刊_v01.md",
     "01_Daily/2026-05-26.md",
-    "01_Daily/2026-05-27.md",
     "10_Projects/2026-05-26_モダナイタスク確認_指示_v01.md",
     "01_Daily/2026-05-25.md",
     "02_Memo/2026-05-25_基礎研修.md",
