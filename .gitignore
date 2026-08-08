@@ -1,0 +1,19 @@
+# === 端末ごとに変わる状態ファイル ===
+# Obsidian Sync が端末間で持つので git では追跡しない。
+# 追跡するとPC/iPhone/iPad で毎回コンフリクトする。
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Smart Connections の埋め込みキャッシュ（各端末でローカル再生成される）
+.smart-env/
+
+# === Obsidian のローカル領域 ===
+.obsidian/plugins/*/data.json.bak
+.trash/
+
+# === OS / エディタ ===
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~

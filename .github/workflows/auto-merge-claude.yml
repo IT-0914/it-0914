@@ -1,0 +1,60 @@
+name: Auto-merge Claude branches into main
+
+# Claude Code / Cowork が claude/* ブランチに push したら main へ自動マージする。
+# main に入って初めて PC の obsidian-git が pull し、Obsidian Sync 経由で
+# iPhone / iPad の Vault にも降りてくる。
+on:
+  push:
+    branches:
+      - 'claude/**'
+  workflow_dispatch:
+
+concurrency:
+  # 同時に複数ブランチがマージしにいくと main の取り合いになるので直列化する
+  group: auto-merge-main
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Configure git identity
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Merge branch into main
+        id: merge
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          set -euo pipefail
+          git fetch origin "$BRANCH"
+          echo "Merging origin/$BRANCH into main"
+          if git merge --no-edit "origin/$BRANCH"; then
+            git push origin main
+            echo "merged=true" >> "$GITHUB_OUTPUT"
+          else
+            # コンフリクトは自動解決しない。Vault の中身が黙って消えるのを防ぐため、
+            # マージを中止して人間が見るまで claude/* ブランチに留めておく。
+            git merge --abort || true
+            echo "merged=false" >> "$GITHUB_OUTPUT"
+            echo "::error::main と '$BRANCH' がコンフリクトしました。手動でマージしてください。"
+            exit 1
+          fi
+
+      - name: Delete merged branch
+        if: steps.merge.outputs.merged == 'true'
+        env:
+          BRANCH: ${{ github.ref_name }}
+          GH_TOKEN: ${{ github.token }}
+        run: git push origin --delete "$BRANCH" || true
